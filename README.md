@@ -16,7 +16,7 @@ REACT.JS
 <div>
 <img src="./Снимок веб-страницы_21-8-2022_17235_.jpeg" alt="">
 <hr noshade>
-<img src="" alt="">
+<img src="./Снимок веб-страницы_24-8-2022_17446_.jpeg" alt="">
 <hr noshade>
 <img src="" alt="">
 </div>
