@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 <hr noshade>
 <pre>
-My name Dima , i am 13 years old
+My name <span>Dima<span> , i am 13 years old
 I am learning Frontend Dev
 My stack:
 HTML
