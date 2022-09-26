@@ -1,16 +1,16 @@
 <h1>Hello!</h1>
 <hr noshade>
-<pre>
-My name <span style="color: blue;">Dima<span> , i am 13 years old
-I am learning Frontend Dev
-My stack:
-HTML
-CSS
-SCSS
-JSON
-JS
-REACT.JS
-</pre>
+<div>
+My name <span style="color: blue;">Dima<span> , i am 13 years old<br>
+I am learning Frontend Dev<br>
+My stack:<br>
+HTML<br>
+CSS<br>
+SCSS<br>
+JSON<br>
+JS<br>
+REACT.JS<br>
+</div>
 <div>
 <h1>My works:</h1>
 <div>
