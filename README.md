@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 <hr noshade>
-<div>
-My name <span style="color: blue;">Dima<span> , i am 13 years old<br>
+<div align="centre">
+My name Dima , i am 13 years old<br>
 I am learning Frontend Dev<br>
 My stack:<br>
 HTML<br>
