@@ -13,6 +13,13 @@ REACT.JS
 </pre>
 <div>
 <h1>My works:</h1>
+<div>
+<img src="" alt="">
+<hr noshade>
+<img src="" alt="">
+<hr noshade>
+<img src="" alt="">
+</div>
 </div>
 
 <!--
