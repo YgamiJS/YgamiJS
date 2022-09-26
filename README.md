@@ -14,7 +14,7 @@ REACT.JS
 <div>
 <h1>My works:</h1>
 <div>
-<img src="" alt="">
+<img src="./Снимок веб-страницы_21-8-2022_17235_.jpeg" alt="">
 <hr noshade>
 <img src="" alt="">
 <hr noshade>
