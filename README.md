@@ -6,7 +6,7 @@ I am learning Frontend Dev<br>
 My stack:<br>
 HTML<img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt=""><br>
 CSS<img src="https://www.flaticon.com/free-icon/css-3_5968242" alt=""><br>
-SCSS<br>
+SCSS<img src="https://www.flaticon.com/free-icon/sass_5968358" alt=""><br>
 JSON<br>
 JS<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt=""><br>
 REACT.JS<br>
