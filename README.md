@@ -4,7 +4,7 @@
 My name Dima , i am 13 years old<br>
 I am learning Frontend Dev<br>
 My stack:<br>
-HTML<br>
+HTML<br><img src="https://www.flaticon.com/free-icons/html-5" alt="">
 CSS<br>
 SCSS<br>
 JSON<br>
