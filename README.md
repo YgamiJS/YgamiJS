@@ -20,7 +20,7 @@ REACT.JS<br>
 <hr noshade>
 <img src="./Снимок веб-страницы_21-8-2022_17235_.jpeg" alt="">
 <hr noshade>
-<img src="" alt="">
+<img src="Снимок веб-страницы_5-11-2022_204254_.jpeg" alt="">
 <hr noshade>
 <img src="./Снимок веб-страницы_26-9-2022_192350_.jpeg" alt="">
 <hr noshade>
