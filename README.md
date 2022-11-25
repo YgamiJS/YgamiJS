@@ -15,6 +15,7 @@ REACT.JS<br>
 <h1>My works:</h1>
 <div>
 <img src="./Снимок веб-страницы_4-11-2022_21323_.jpeg" alt="">
+<a href="https://ygamijs.github.io/Eat/">Сайт<a>
 <hr noshade>
 <img src="./Снимок веб-страницы_5-11-2022_211259_.jpeg" alt="">
 <hr noshade>
