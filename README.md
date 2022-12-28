@@ -17,7 +17,7 @@ REACT.JS<br>
 <img src="./Снимок веб-страницы_4-11-2022_21323_.jpeg" alt="">
 <a href="https://ygamijs.github.io/Eat/">Сайт<a>
 <hr noshade>
-<img src="./Снимок веб-страницы_27-11-2022_03726_ygamijs.github.io.jpeg" alt="">
+<img src="./Снимок веб-страницы_28-12-2022_182541_ygamijs.github.io.jpeg" alt="">
 <a href="https://ygamijs.github.io/Prime-Car/">сайт</a>
 <hr noshade>
 <img src="./Снимок веб-страницы_5-11-2022_213539_.jpeg" alt="">
