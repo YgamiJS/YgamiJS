@@ -10,6 +10,7 @@ SASS<br>
 SCSS<br>
 JSON<br>
 JS<br>
+TS<br>
 REACT.JS<br>
 </div>
 <div>
