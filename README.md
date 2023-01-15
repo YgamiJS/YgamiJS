@@ -8,10 +8,11 @@ HTML<br>
 CSS<br>
 SASS<br>
 SCSS<br>
+TailwindCSS<br>
 JSON<br>
 JS<br>
 TS<br>
-REACT.JS<br>
+React<br>
 </div>
 <div>
 <h1>My works:</h1>
