@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 <hr noshade>
 <div align="centre">
-My name Dima<br>
+My name is Dima<br>
 I am learning Frontend Dev<br>
 My stack:<br>
 HTML<br>
