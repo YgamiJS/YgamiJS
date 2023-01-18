@@ -4,6 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/style.css" />
     <title>Портфолио</title>
   </head>
@@ -11,13 +13,13 @@
     <div class="container images">
       <h1>Портфолио</h1>
       <ul>
-        <li>
+        <li data-aos="fade-up">
           <a class="image" href="https://ygamijs.github.io/Eat/">
             <img src="./img/I.jpeg" alt="Eat healthy" />
             Eat healthy
           </a>
         </li>
-        <li>
+        <li data-aos="fade-up">
           <a class="image" href="https://ygamijs.github.io/Prime-Car/">
             <img
               src="./img/Снимок веб-страницы_28-12-2022_182541_ygamijs.github.io.jpeg"
@@ -45,5 +47,8 @@
         Github</a
       >
     </div>
+    <script>
+  AOS.init();
+</script>
   </body>
 </html>
