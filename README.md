@@ -39,7 +39,7 @@
              title="TailwindCSS" alt="TaiwindCSS"
              width="40" height="40"/></a>
 </div>
- <a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a>
+ <a align="center" href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a>
 <h1>Hello!</h1>
 <hr noshade>
 <div align="centre">
