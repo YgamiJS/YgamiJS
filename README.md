@@ -37,7 +37,7 @@
     <a href="https://tailwindcss.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
              title="TailwindCSS" alt="TaiwindCSS"
-             width="40" height="40"/></a>&nbsp;
+             width="40" height="40"/></a>
     <a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a>
 </div>
 <h1>Hello!</h1>
