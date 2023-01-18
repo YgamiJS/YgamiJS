@@ -35,8 +35,8 @@
              title="Git" alt="Git"
              width="40" height="40"/></a>&nbsp;
     <a href="https://tailwindcss.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindCSS/tailwind-original.svg"
-             title="Git" alt="Git"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindCSS/tailwindCSS-original.svg"
+             title="TailwindCSS" alt="TaiwindCSS"
              width="40" height="40"/></a>&nbsp;
 </div>
 <h1>Hello!</h1>
