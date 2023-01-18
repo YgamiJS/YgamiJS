@@ -40,7 +40,7 @@
              width="40" height="40"/></a>
 </div>
 <a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a>
-<h1>Hello!</h1>
+<!-- <h1>Hello!</h1>
 <hr noshade>
 <div align="centre">
 My name is Dima<br>
@@ -56,7 +56,7 @@ JS<br>
 TS<br>
 React<br>
 </div>
-<div>
+<div> -->
 <!-- <h1>My works:</h1>
 <div>
 <img src="./Снимок веб-страницы_4-11-2022_21323_.jpeg" alt="">
