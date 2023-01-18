@@ -38,8 +38,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
              title="TailwindCSS" alt="TaiwindCSS"
              width="40" height="40"/></a>
-    <a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a>
 </div>
+ <a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a>
 <h1>Hello!</h1>
 <hr noshade>
 <div align="centre">
