@@ -41,6 +41,7 @@
 </div>
 <div align="center"><a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a></div>
 <div align="center">
+<h2>Связь:</h2>
 <ul style="list-style: none">
     <li><a href="mailto:dimasakharov@icloud.com">Email: dimasakharov@icloud.com</a></li>
     <li><a href="https://t.me/Dimasss201">Телеграмм: https://t.me/Dimasss201</a></li>
