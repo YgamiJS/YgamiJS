@@ -77,7 +77,7 @@ React<br>
 </div>
 </div> -->
 <div align="center">
-<a href=mailto:filinigor@yandex.ru>
+<a href=mailto:dimasakharov@icloud.com>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=147&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
     </a>
 </div>
