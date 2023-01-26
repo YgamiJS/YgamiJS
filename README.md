@@ -37,7 +37,10 @@
     <a href="https://tailwindcss.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
              title="TailwindCSS" alt="TaiwindCSS"
-             width="40" height="40"/></a>
+             width="40" height="40"/></a>&nbsp;
+    <a href="https://gulpjs.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40" />
+    </a>
 </div>
 <div align="center"><a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a></div>
 <div align="center">
