@@ -47,6 +47,7 @@ body {
 
 .profile__technologes {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
