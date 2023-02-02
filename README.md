@@ -41,7 +41,7 @@
     <a href="https://gulpjs.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40" />
     </a>
-</div>Junior frontend developer
+</div>
 <div align="center">Junior frontend developer <a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a></div>
 <div align="center">
 <h2>Связь:</h2>
