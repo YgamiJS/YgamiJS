@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=147&height=200&section=header&text=Dima%&desc=Frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=60&fontAlign=20&fontAlignY=44&descSize=18&descAlign=20.5&descAlignY=17"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=147&height=200&section=header&text=Dima%&desc=Frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=60&fontAlign=20&fontAlignY=44&descSize=18&descAlign=15.5&descAlignY=17"/>
 </div>
 <div align="center">
     <a href="https://reactjs.org/">
