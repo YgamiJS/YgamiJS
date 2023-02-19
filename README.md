@@ -6,10 +6,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
              title="React" alt="React"
              width="40" height="40"/></a>&nbsp;
-<!--     <a href="https://redux.js.org/">
+    <a href="https://redux-toolkit.js.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" https://6fa3-188-233-100-43.eu.ngrok.io/
              title="Redux" alt="Redux "
-             width="40" height="40"/></a>&nbsp;        -->
+             width="40" height="40"/></a>&nbsp;       
     <a href="https://en.wikipedia.org/wiki/CSS">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
              title="CSS3" alt="CSS"
