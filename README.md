@@ -8,7 +8,7 @@
              width="40" height="40"/></a>&nbsp;
     <a href="https://redux-toolkit.js.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" https://6fa3-188-233-100-43.eu.ngrok.io/
-             title="Redux" alt="Redux "
+             title="Redux Toolkit" alt="Redux Toolkit"
              width="40" height="40"/></a>&nbsp;       
     <a href="https://en.wikipedia.org/wiki/CSS">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
