@@ -30,6 +30,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
              title="TypeScript" alt="TypeScript"
              width="40" height="40"/></a>&nbsp;
+       <a href="https://nodejs.org/en">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40" />  
+    </a>&nbsp;
+    <a href="https://expressjs.com/" bgcolor="white">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />  
+    </a>&nbsp;
     <a href="https://git-scm.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
@@ -43,12 +49,6 @@
     </a>    
     <a href="https://gulpjs.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40" />
-    </a>
-      <a href="https://nodejs.org/en">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40" />  
-    </a>          
-    <a href="https://expressjs.com/" bgcolor="white">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />  
     </a>
 </div>
 <div align="center"><br /><img src="https://www.codewars.com/users/YgamiJS/badges/large" alt="" /> <br />Junior frontend developer<br ><a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a></div>
