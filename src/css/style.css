@@ -42,6 +42,12 @@ body {
   padding: 15px 15px;
 }
 
+.profile .profile__container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
 .profile .avatar {
   border-radius: 50%;
 }
@@ -56,6 +62,11 @@ body {
   font-weight: 100;
   font-size: 16px;
   color: var(--color-gray);
+}
+
+.codewars {
+  max-width: 400px;
+  width: 100%;
 }
 
 .images {
@@ -88,7 +99,7 @@ ul li:not(:last-child) {
   color: var(--color-white);
 }
 
-.github {
+.social-links .social-link {
   display: inline-block;
   display: flex;
   align-items: center;
@@ -97,12 +108,8 @@ ul li:not(:last-child) {
   color: whitesmoke;
 }
 
-.github:hover {
+.social-links .social-link:hover {
   text-decoration: underline;
   text-decoration-color: whitesmoke;
   text-underline-offset: 3px;
-}
-
-.github svg {
-  fill: white;
 }
