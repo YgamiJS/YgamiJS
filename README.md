@@ -7,7 +7,7 @@
              title="React" alt="React"
              width="40" height="40"/></a>&nbsp;
     <a href="https://redux-toolkit.js.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" https://6fa3-188-233-100-43.eu.ngrok.io/
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
              title="Redux Toolkit" alt="Redux Toolkit"
              width="40" height="40"/></a>&nbsp;       
     <a href="https://en.wikipedia.org/wiki/CSS">
@@ -51,7 +51,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40" />
     </a>
 </div>
-<div align="center"><br /><img src="https://www.codewars.com/users/YgamiJS/badges/large" alt="" /> <br />Junior frontend developer<br /><a href="https://ygamijs.github.io/YgamiJS/saits/index.html">Портфолио</a><br /><a href="https://ygamijs.github.io/">Блог</a></div>
+<div align="center"><br /><img src="https://www.codewars.com/users/YgamiJS/badges/large" alt="" /> <br />Junior frontend developer<br /><a href="https://ygamijs.github.io/YgamiJS/">Портфолио</a><br /><a href="https://ygamijs.github.io/">Блог</a></div>
 <div align="center">
 <h2>Связь:</h2>
 <ul style="list-style: none">
