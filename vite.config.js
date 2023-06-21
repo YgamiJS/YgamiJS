@@ -3,7 +3,7 @@ import viteImagemin from "vite-plugin-imagemin";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/YgamiJS/,
+  base: "/YgamiJS/",
   plugins: [
     viteImagemin({
       gifsicle: {
