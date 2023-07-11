@@ -44,6 +44,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
              title="TailwindCSS" alt="TaiwindCSS"
              width="40" height="40"/></a>&nbsp;
+     <a href="https://vitejs.dev/">
+         <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/>
+    </a>  
     <a href="https://webpack.js.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
     </a>    
