@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "loading-attribute-polyfill": "^2.1.1",
+    "loading-attribute-polyfill": "^2.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
