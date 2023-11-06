@@ -60,7 +60,7 @@
         <img src="https://pinia.vuejs.org/logo.svg" title="Pinia" alt="Pinia" width="40" height="40" />
     </a>
 </div>
-<div align="center"><br /><img src="https://www.codewars.com/users/YgamiJS/badges/large" alt="" /> <br />Junior frontend developer<br /><a href="https://ygamijs.github.io/YgamiJS/">Портфолио</a><br /><a href="https://ygamijs.github.io/">Блог</a></div>
+<div align="center"><br /><img src="https://www.codewars.com/users/YgamiJS/badges/large" alt="" /> <br />Frontend developer<br /><a href="https://ygamijs.github.io/YgamiJS/">Портфолио</a><br /><a href="https://ygamijs.github.io/">Блог</a></div>
 <div align="center">
 <h2>Связь:</h2>
 <ul style="list-style: none">
