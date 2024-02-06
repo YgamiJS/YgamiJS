@@ -80,8 +80,8 @@ body {
   margin: 15px 0;
 }
 
-ul li:not(:last-child) {
-  margin: 0 0 15px 0;
+.works .works__work:not(:last-child) {
+  margin: 0 0 30px 0;
 }
 
 .image img {
@@ -92,12 +92,20 @@ ul li:not(:last-child) {
   height: 50%;
 }
 
-.image img:hover {
+.image img:hover,
+img:active {
   box-shadow: 0px 0px 14px 0px var(--color-smoke);
 }
 
 .image {
+  display: block;
   color: var(--color-white);
+  text-align: center;
+  font-size: 20px;
+}
+
+.image:hover {
+  text-decoration: underline;
 }
 
 .social-links .social-link {
@@ -109,8 +117,13 @@ ul li:not(:last-child) {
   color: var(--color-smoke);
 }
 
-.social-links .social-link:hover {
+.social-links .social-link:hover,
+.social-link:active {
   text-decoration: underline;
   text-decoration-color: var(--color-smoke);
   text-underline-offset: 3px;
+}
+
+.github {
+  padding: 3px;
 }
