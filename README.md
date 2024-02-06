@@ -41,7 +41,7 @@
              title="Git" alt="Git"
              width="40" height="40"/></a>&nbsp;
     <a href="https://tailwindcss.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
              title="TailwindCSS" alt="TaiwindCSS"
              width="40" height="40"/></a>&nbsp;
      <a href="https://vitejs.dev/">
