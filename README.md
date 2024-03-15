@@ -36,7 +36,6 @@
     <a href="https://expressjs.com/" bgcolor="white">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />  
     </a>&nbsp;
-    <br />
     <a href="https://git-scm.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
@@ -48,6 +47,7 @@
      <a href="https://vitejs.dev/">
          <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/>
     </a>  
+    <br />
     <a href="https://webpack.js.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
     </a>    
