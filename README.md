@@ -53,12 +53,18 @@
     <a href="https://gulpjs.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40" />
     </a>
+    <a href="https://www.php.net/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />
+    </a>
+    <a href="https://ru.wordpress.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40" />
+    </a>
      <a href="https://vuejs.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40" />
     </a>
     <a href="https://pinia.vuejs.org/">
         <img src="https://pinia.vuejs.org/logo.svg" title="Pinia" alt="Pinia" width="40" height="40" />
-    </a>
+    </a>  
 </div>
 <div align="center"><br /><img src="https://www.codewars.com/users/YgamiJS/badges/large" alt="" /> <br />Frontend developer<br /><a href="https://ygamijs.github.io/YgamiJS/">Портфолио</a><br /><a href="https://ygamijs.github.io/">Блог</a></div>
 <div align="center">
