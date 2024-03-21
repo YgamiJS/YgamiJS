@@ -34,7 +34,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40" />  
     </a>&nbsp;
     <a href="https://expressjs.com/" bgcolor="white">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />  
+        <img src="https://ygamijs.github.io/YgamiJS/src/img/icons/express.svg" title="Express" alt="Express" width="40" height="40" />  
     </a>&nbsp;
     <a href="https://git-scm.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
