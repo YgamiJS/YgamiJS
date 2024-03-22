@@ -77,7 +77,7 @@
 </ul>
 </div>
 <div align="center">
-<a href=mailto:dimasakharov@icloud.com>
+<a href="https://t.me/DmitriyWork201">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=ffffff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
     </a>
 </div>
