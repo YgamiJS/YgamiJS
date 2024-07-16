@@ -72,7 +72,8 @@
 <h2>Связь:</h2>
 <ul style="list-style: none">
     <li><a href="mailto:dmitriywork201@gmail.com">Email: dmitriywork201@gmail.com</a></li>
-    <li><a href="https://t.me/Dimasss201">Telegram: https://t.me/DmitriyWork201</a></li>
+    <li><a href="https://t.me/DmitriyWork201">Telegram: https://t.me/DmitriyWork201</a></li>
+    <li><a href="https://wa.me/79272570537">WhatsApp: https://wa.me/79272570537</a></li>
     <li><a href="https://github.com/YgamiJS">GitHub: https://github.com/YgamiJS</a></li>
 </ul>
 </div>
